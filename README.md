@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm DHRUV DOBARIIYA</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.png](https://github.com/ItzDhruv/SpringBoot_QuizApplication/blob/main/vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.png?raw=true)">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ItzDhruv/SpringBoot_QuizApplication/main/vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.png"
+>
+
+
 - 🔭 I’m currently working on solana blokchain build smart-contract and also done worked as java devloper(spring-boot).
 
 - 💬 Ask me about **Java, DSA, Spring Boot, Rust, smart-contract, Blokchain**
