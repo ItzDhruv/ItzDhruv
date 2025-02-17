@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHRUV DOBARIIYA</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid)">
 - 🔭 I’m currently working on solana blokchain build smart-contract and also done worked as java devloper(spring-boot).
 
 - 💬 Ask me about **Java, DSA, Spring Boot, Rust, smart-contract, Blokchain**
